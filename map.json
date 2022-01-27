@@ -663,14 +663,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"WorkAdventure will support your next Christmas party. Humans are the most valuable asset of your company. Don\u2019t miss out the opportunity to enhance your corporate culture, to create a sense of belonging and to thank your co-workers.\n\nPick up the map and start planning your event:\n- Organize a Secret Santa\n- Set up a music quiz\n- Plan workshops for making gingerbread houses\n- Throw a magic show\n- And way more!\n\nTry our Christmas map \ud83c\udf84"
+         "value":"Suitable for up to 50 users.\n\nWorkAdventure will support your next Christmas party. Humans are the most valuable asset of your company. Do not miss out the opportunity to enhance your corporate culture, to create a sense of belonging and to thank your co-workers.\nPick up the map and start planning your event."
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Merry Christmas"
